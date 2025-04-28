@@ -9,7 +9,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       theme: DefaultThemes.darkTheme,
       themeMode: ThemeMode.dark,
-      home: const HomePage(),
+      home: const MyApp(),
     ),
   );
 }
